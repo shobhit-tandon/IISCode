@@ -88,6 +88,7 @@
       <li><a href="https://assignementscreenshots.s3-ap-southeast-1.amazonaws.com/screen-shot2.png">screen-shot2</a></li>
       <li><a href="https://assignementscreenshots.s3-ap-southeast-1.amazonaws.com/screen-shot3.png">screen-shot3</a></li>
     </ul>
+    <h3>Managed by Elastic Beanstalk</h3>
   </div>
 </script>
 </body>
